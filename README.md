@@ -6,6 +6,15 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have a cat named mojo 
 
+### 🛠️ Tech Stack
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+
+
+
 <!---
 mojo532/mojo532 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
