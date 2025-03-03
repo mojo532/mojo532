@@ -8,15 +8,14 @@ Currently studying Computer Science(Informatik) in Uni.Rostock.
 
 
 ## 🛠️ Tech Stack
-
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 
 ## 🌱 Currently Learning
-- Algorithms & Data Structures 📚
-- System Programming in C ⚙️
-- Machine Learning with Python 🤖
+Algorithms & Data Structures 📚
+System Programming in C ⚙️
+Machine Learning with Python 🤖
 
 
 <!---
