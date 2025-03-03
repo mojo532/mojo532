@@ -25,13 +25,13 @@ Currently studying **Computer Science(Informatik)** in Uni.Rostock.<br><br>
 <br><br>
 ### 💡 What I'm interested in 💡
 I used to work as a marketer at a publishing company in Korea.<br>
-So I'm passionate about running projects related to 📚reading and writing.<br> 
+And I'm passionate about running projects related to 📚reading and writing.<br> 
 Feel free to reach out! ✉️<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyungmin-kim-42a90b351) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rudals5320@gmail.com)
 <br><br>
 ### 🗣️ Speaking
-🇺🇸**English** 🇩🇪**German** 🇰🇷**Korean** 
+🇺🇸English 🇩🇪German 🇰🇷Korean(Native) 
 <br><br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mojo532&layout=compact)
 
