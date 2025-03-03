@@ -2,9 +2,9 @@
 
 ### 👋 Hello, Nice to see you!
 
-Welcome to my page.
-I'm Kyungmin, developer from 🇰🇷South Korea, living in 🇩🇪Germany, Berlin.
-Currently studying Computer Science(Informatik) in Uni.Rostock.
+Welcome to my page.//
+I'm Kyungmin, developer from 🇰🇷South Korea, living in 🇩🇪Germany, Berlin.//
+Currently studying Computer Science(Informatik) in Uni.Rostock.//
 
 
 ## 🛠️ Tech Stack
@@ -13,8 +13,8 @@ Currently studying Computer Science(Informatik) in Uni.Rostock.
 
 
 ## 🌱 Currently Learning
-Algorithms & Data Structures 📚
-System Programming in C ⚙️
+Algorithms & Data Structures 📚//
+System Programming in C ⚙️//
 Machine Learning with Python 🤖
 
 
