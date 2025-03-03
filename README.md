@@ -23,8 +23,7 @@ Currently studying Computer Science(Informatik) in Uni.Rostock.<br><br>
 🤖 Machine Learning with Python<br>
 🖥️ Web develop
 <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mojo532&token=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&langs_count=10&layout=compact&theme=dark)](https://github.com/mojo532/mojo532)﻿
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mojo532&layout=compact)
 
 <!---
 mojo532/mojo532 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
