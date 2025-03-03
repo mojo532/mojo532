@@ -7,7 +7,7 @@ I'm **Kyungmin**, developer from 🇰🇷South Korea, living in 🇩🇪**German
 Currently studying **Computer Science(Informatik)** in Uni.Rostock.<br><br>
 
 
-### 🛠️ Tech Stack 🛠️
+### 🛠️ Tech Stack 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
 <img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white" alt="JAVA">
@@ -17,13 +17,13 @@ Currently studying **Computer Science(Informatik)** in Uni.Rostock.<br><br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 <br><br>
 
-### 🌱 Currently Learning 🌱
+### 🌱 Currently Learning 
 🧩 Algorithms & Data Structures<br>
 ⚙️ System Programming in C <br>
 🤖 Machine Learning with Python<br>
 🖥️ Web develop
 <br><br>
-### 💡 What I'm interested in 💡
+### 💡 What I'm interested in 
 I used to work as a marketer at a publishing company in Korea.<br>
 And I'm passionate about running projects related to 📚reading and writing.<br> 
 Feel free to reach out! ✉️<br>
