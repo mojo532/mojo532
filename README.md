@@ -1,18 +1,22 @@
-- 👋 Hi, I’m @mojo532
-- 👀 I’m interested in coding and books
-- 🌱 I’m currently learning C, Python
-- 💞️ I’m looking to collaborate on something related with books, reading project
-- 📫 How to reach me rudals5320@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I have a cat named mojo 
+<div align="center">
 
-### 🛠️ Tech Stack
+### 👋 Hello, Nice to see you!
+---
+Welcome to my page.
+I'm Kyungmin, developer from 🇰🇷South Korea, living in 🇩🇪Germany, Berlin.
+Currently studying Computer Science(Informatik) in Uni.Rostock.
+
+
+## 🛠️ Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 
-
+## 🌱 Currently Learning
+- Algorithms & Data Structures 📚
+- System Programming in C ⚙️
+- Machine Learning with Python 🤖
 
 
 <!---
