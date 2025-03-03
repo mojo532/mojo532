@@ -14,8 +14,9 @@ Currently studying Computer Science(Informatik) in Uni.Rostock.<br><br><br>
 
 ### 🌱 Currently Learning
 📚 Algorithms & Data Structures<br>
-⚙️ System Programming in C ⚙️<br>
-🤖 Machine Learning with Python
+⚙️ System Programming in C <br>
+🤖 Machine Learning with Python<br>
+🖥️ Web develop
 
 
 <!---
