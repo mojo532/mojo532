@@ -22,7 +22,7 @@ Currently studying Computer Science(Informatik) in Uni.Rostock.<br><br>
 ⚙️ System Programming in C <br>
 🤖 Machine Learning with Python<br>
 🖥️ Web develop
-<br><br>
+<br><br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mojo532&layout=compact)
 
 <!---
