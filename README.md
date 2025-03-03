@@ -18,20 +18,18 @@ Currently studying **Computer Science(Informatik)** in Uni.Rostock.<br><br>
 <br><br>
 
 ### 🌱 Currently Learning 🌱
-📚 Algorithms & Data Structures<br>
+🧩 Algorithms & Data Structures<br>
 ⚙️ System Programming in C <br>
 🤖 Machine Learning with Python<br>
 🖥️ Web develop
 <br><br>
 ### 💡 What I'm interested in 💡
 I used to work as a marketer at a publishing company in Korea.<br>
-So I'm passionate about running projects related to reading and writing. 
+So I'm passionate about running projects related to 📚reading and writing.<br> 
 Feel free to reach out! ✉️
 <br><br>
 ### 🗣️ Speaking
-**English** 🇺🇸
-**German** 🇩🇪
-**Korean** 🇰🇷
+🇺🇸**English** 🇩🇪**German** 🇰🇷**Korean** 
 <br><br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mojo532&layout=compact)
 
