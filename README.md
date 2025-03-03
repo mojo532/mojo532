@@ -3,8 +3,8 @@
 ## 👋 Hello, Nice to see you!
 
 Welcome to my page.<br>
-I'm Kyungmin, developer from 🇰🇷South Korea, living in 🇩🇪Germany, Berlin.<br>
-Currently studying Computer Science(Informatik) in Uni.Rostock.<br><br>
+I'm **Kyungmin**, developer from 🇰🇷South Korea, living in 🇩🇪**Germany, Berlin**.<br>
+Currently studying **Computer Science(Informatik)** in Uni.Rostock.<br><br>
 
 
 ### 🛠️ Tech Stack 🛠️
@@ -29,9 +29,9 @@ So I'm passionate about running projects related to reading and writing.
 Feel free to reach out! ✉️
 <br><br>
 ### 🗣️ Speaking
-- **English** 🇺🇸
-- **German** 🇩🇪
-- **Korean** 🇰🇷
+**English** 🇺🇸
+**German** 🇩🇪
+**Korean** 🇰🇷
 <br><br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mojo532&layout=compact)
 
