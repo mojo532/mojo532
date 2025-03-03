@@ -1,20 +1,20 @@
 <div align="center">
 
-### 👋 Hello, Nice to see you!
+## 👋 Hello, Nice to see you!
 ---
-Welcome to my page.//
-I'm Kyungmin, developer from 🇰🇷South Korea, living in 🇩🇪Germany, Berlin.//
-Currently studying Computer Science(Informatik) in Uni.Rostock.//
+Welcome to my page.<br>
+I'm Kyungmin, developer from 🇰🇷South Korea, living in 🇩🇪Germany, Berlin.<br>
+Currently studying Computer Science(Informatik) in Uni.Rostock.<br><br><br>
 
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+<br><br><br>
 
-
-## 🌱 Currently Learning
-Algorithms & Data Structures 📚//
-System Programming in C ⚙️//
+### 🌱 Currently Learning
+Algorithms & Data Structures 📚<br>
+System Programming in C ⚙️<br>
 Machine Learning with Python 🤖
 
 
