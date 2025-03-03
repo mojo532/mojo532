@@ -25,6 +25,10 @@ Currently studying Computer Science(Informatik) in Uni.Rostock.<br><br>
 <br><br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mojo532&layout=compact)
 
+### 🕰️ Commit Activity
+
+![Metrics](https://metrics.lecoq.io/mojo532?template=classic&base=activity&commits=1&commit_hours=1)
+
 <!---
 mojo532/mojo532 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
