@@ -1,7 +1,7 @@
 <div align="center">
 
 ## 👋 Hello, Nice to see you!
----
+
 Welcome to my page.<br>
 I'm Kyungmin, developer from 🇰🇷South Korea, living in 🇩🇪Germany, Berlin.<br>
 Currently studying Computer Science(Informatik) in Uni.Rostock.<br><br><br>
