@@ -29,9 +29,11 @@ And I'm passionate about running projects related to 📚reading and writing.<br
 Feel free to reach out! ✉️<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyungmin-kim-42a90b351) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rudals5320@gmail.com)
+<p style="font-size: 14px;">
 <a href="https://www.linkedin.com/in/kyungmin-kim-42a90b351"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="25"></a>
 <a href="mailto:rudals5320@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="25"></a>
 <br><br>
+</p>
 ### 🗣️ Speaking
 🇺🇸English 🇩🇪German 🇰🇷Korean(Native) 
 <br><br><br>
