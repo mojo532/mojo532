@@ -31,12 +31,11 @@ Feel free to reach out! ✉️<br>
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rudals5320@gmail.com)
 ### 🗣️ Speaking
 🇺🇸English 🇩🇪German 🇰🇷Korean(Native) 
-<br><br><br>
+<br><br>
 
 ### 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mojo532&layout=compact&theme=transparent)
 
-![mojo532's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mojo532&show_icons=true&theme=transparent)
 
 
 
