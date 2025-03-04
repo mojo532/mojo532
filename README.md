@@ -35,6 +35,8 @@ Feel free to reach out! ✉️<br>
 
 ### 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mojo532&layout=compact&theme=transparent)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=mojo532&layout=compact&theme=tokyonight)
+
 
 
 
