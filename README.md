@@ -25,7 +25,7 @@ Currently studying **Computer Science(Informatik)** in Uni.Rostock.<br><br>
 🖥️ Web develop
 <br><br>
 ### 💡 What I'm interested in 
-I used to work as a marketer at a publishing company in Korea.<br>
+I used to work as a marketer at a publishing company before.<br>
 And I'm passionate about running projects related to 📚reading and writing.<br> 
 Feel free to reach out! ✉️<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyungmin-kim-42a90b351) 
