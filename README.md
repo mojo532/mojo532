@@ -32,7 +32,7 @@ Feel free to reach out! ✉️<br>
 <br><br>
 
 ### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mojo532&layout=donut&theme=catppuccin_latte)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mojo532&layout=donut&theme=nord)
 
 
 
