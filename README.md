@@ -32,7 +32,12 @@ Feel free to reach out! ✉️<br>
 ### 🗣️ Speaking
 🇺🇸English 🇩🇪German 🇰🇷Korean(Native) 
 <br><br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mojo532&layout=compact)
+
+### 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mojo532&layout=compact&theme=tokyonight)
+
+![mojo532's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mojo532&show_icons=true&theme=tokyonight)
+
 
 
 
