@@ -21,7 +21,7 @@ Currently studying **Computer Science(Informatik)** in Uni.Rostock.<br><br>
 ### 🌱 Currently Learning 
 🧩 Algorithms & Data Structures in Java <br>
 ⚙️ System Programming in C <br>
-🤖 Data Learning with Python<br>
+🤖 Learning Programming Language especially Python <br>
 🖥️ Web develop
 <br><br>
 ### 💡 What I'm interested in 
