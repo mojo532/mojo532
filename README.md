@@ -35,7 +35,7 @@ Feel free to reach out! ✉️<br>
 ### 📊 GitHub Stats + Codewars Challenge
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mojo532&layout=donut&theme=calm)
 <br>
-![Codewars](https://github.r2v.ch/codewars?user=mojo532&top_languages=true&theme=purple_dark&hide_clan=true)
+![Codewars](https://github.r2v.ch/codewars?user=mojo532&top_languages=true&hide_clan=true&theme=purple_dark)
 <br>
 
 
