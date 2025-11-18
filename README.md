@@ -3,7 +3,7 @@
 ## 👋 Hello, Nice to see you!
 
 Welcome to my page.<br>
-I'm **Kyungmin**, developer from 🇰🇷South Korea, living in 🇩🇪**Germany, Berlin**.<br>
+I'm **Kyungmin**, developer from 🇰🇷South Korea, living in 🇩🇪**Germany, Rostock**.<br>
 Currently studying **Computer Science(Informatik)** in Uni.Rostock.<br><br>
 
 
