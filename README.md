@@ -20,7 +20,7 @@ Currently studying **Computer Science(Informatik)** in Uni.Rostock.<br><br>
 🧩 Algorithms & Data Structures in Java <br>
 ⚙️ System Programming in C <br>
 🤖 Learning Programming Language especially Python <br>
-🖥️ Web develop
+🖥️ Web develop & Visualisierung
 <br><br>
 ### 💡 What I'm interested in 
 I used to work as a marketer at a publishing company before.<br>
